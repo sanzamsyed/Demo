@@ -1,0 +1,12 @@
+ls
+cd 
+
+git init
+git remote add origin <gitLink>
+git remote -v //Check
+git add .
+git commit -m  "Comment"
+git push origin master
+
+
+git help
